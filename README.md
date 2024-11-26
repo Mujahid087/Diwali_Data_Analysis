@@ -14,7 +14,7 @@ The following tools and libraries were used in this project:
 - **NumPy**: For numerical operations and handling missing data
 - **Seaborn**: For data visualization (bar plots, etc.)
 - **Matplotlib**: For creating static, animated, and interactive visualizations
-- **Jupyter Notebook**: For creating and running the analysis interactively
+
 
 ## Getting Started
 
