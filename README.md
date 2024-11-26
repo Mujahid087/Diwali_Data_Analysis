@@ -29,7 +29,7 @@ These instructions will help you set up and run the project on your local machin
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Diwali-Data-Analysis.git
+https://github.com/Mujahid087/Diwali_Data_Analysis
 ```
 
 2. Navigate to the project directory:
