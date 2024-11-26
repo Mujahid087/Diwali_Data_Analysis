@@ -16,3 +16,34 @@ The following tools and libraries were used in this project:
 - **Seaborn**: For data visualization (bar plots, etc.).
 - **Matplotlib**: For creating static, animated, and interactive visualizations.
 - **Jupyter Notebook**: For creating and running the analysis interactively.
+
+## Getting Started
+
+These instructions will help you set up and run the project on your local machine.
+
+### Prerequisites
+
+* Python 3.6 or higher
+* Git
+
+### Installation and Setup
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/Diwali-Data-Analysis.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd Diwali-Data-Analysis
+```
+
+
+```
+
+### Running the Analysis
+
+Run the analysis script:
+```bash
+python firstfile.py
+```
